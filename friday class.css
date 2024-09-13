@@ -1,0 +1,10 @@
+#post p::first-letter{
+    font-size: 35px;
+    font-style: oblique;
+    color: brown
+}
+#hey p::first-letter{
+    font-style: oblique;
+    font-size: 35px;
+    color: brown
+}

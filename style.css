@@ -1,0 +1,22 @@
+#post p::first-letter{
+    font-size: 35px;
+    color: red;
+    font-style: italic;
+
+}
+#post span{
+    color: red;
+    font-weight: bold;
+}
+#main .post span{
+    color: red;
+font-weight: bold;
+}
+#post span{
+    color: red;
+    font-weight: bold;
+}
+#main .post span{
+    color: red;
+    font-weight: bold;
+}
